@@ -13,15 +13,16 @@
 ## ⚡ Languages and tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="max-width: 100%;">
-  <img src="https://img.icons8.com/ios-filled/40/000000/c-sharp-logo.png"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" /> 
+  <img src="https://img.icons8.com/color/48/null/html-5--v1.png" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/null/css3.png" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/null/bootstrap.png" width="40" height="40">
+  <img src="https://img.icons8.com/color/48/null/javascript--v1.png" width="40" height="40">
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/null/external-dot-net-domain-for-sale-under-landing-page-template-landing-filled-tal-revivo.png" width="40" height="40" /> 
   <img src="https://img.icons8.com/color/40/null/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://img.icons8.com/glyph-neue/40/null/github.png"/>
+  <img src="https://img.icons8.com/fluency/48/null/github.png"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
   <img src="https://img.icons8.com/fluency/40/null/arduino.png"/>
 </p>
